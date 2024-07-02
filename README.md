@@ -1,6 +1,6 @@
 ## Hello!!
 My name is Gannon Hughes and I am a 4th year Physics Major at Cal Poly San Luis Obispo.
-I'm currently working on analysing data from the Sloan Digitial Sky Survery (SDSS) dr12 survey as a student researcher. My team and I are searching for CIV and MgII in the Interstellar and Intergalatic Medium
+I'm currently working on analysing data from the Sloan Digitial Sky Survery (SDSS) dr12 survey as a student researcher. My team and I are searching for CIV and MgII in the Interstellar and Intergalatic Medium!
 
 If you want to reach me please send me an email at gannon.hughes02@gmail.com
 
